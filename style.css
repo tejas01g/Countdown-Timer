@@ -1,0 +1,20 @@
+body{
+    padding-top: 34vh;
+    margin: 0;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.countdown-container{
+    /* position: relative; */
+    font-weight: bold;
+    background-color: aliceblue;
+    font-size: 50px;
+    text-align: center;
+    /* border-color: blanchedalmond; */
+}
+
+.countdown-timer{
+    justify-content: center;
+}
